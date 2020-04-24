@@ -1,0 +1,6 @@
+name: java
+title: Java Training
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/beginner/nav.adoc

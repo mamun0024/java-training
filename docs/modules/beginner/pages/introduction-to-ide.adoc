@@ -1,0 +1,297 @@
+:experimental:
+
+= IntelliJ IDEA
+
+IntelliJ IDEA keymaps for productive java programming.
+
+TIP: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf[Download Keymap] by *Jetbrains*
+
+== Life Saviour Keymaps
+
+.Windows & Linux
+|===
+|Shortcut |Purpose
+
+|kbd:[Shift+Shift]
+|Search everywhere
+
+|kbd:[Alt+Enter]
+|Show intention actions and quick-fixes
+
+|kbd:[Ctrl+E]
+|Recent files popup
+
+|kbd:[Ctrl+N]
+|Go to class
+
+|kbd:[Ctrl+P]
+|Parameter info
+
+|kbd:[Ctrl+W]
+|Extend selection
+
+|kbd:[Ctrl+Shift+W]
+|Shrink selection
+
+|kbd:[Shift+F6]
+|Rename
+
+|kbd:[Alt+F7]
+|Find usages
+
+|kbd:[Ctrl+F7]
+|Find usages in file
+
+|kbd:[Shift+Ctrl+A]
+|Find Action
+
+|===
+
+== General
+
+.Windows & Linux
+|===
+|Shortcut |Purpose
+
+|kbd:[Ctrl+Shift+F12]
+|Toggle maximizing editor
+
+|kbd:[Ctrl+Alt+S]
+|Open Settings dialog
+
+|kbd:[Ctrl+Alt+Shift+S]
+|Open Project Structure dialog
+
+|===
+
+== Navigate Code Effectively
+
+.Windows & Linux
+|===
+|Shortcut |Purpose
+
+|kbd:[Shift+Shift]
+|Search everywhere
+
+|kbd:[Ctrl+N]
+|Go to class
+
+|kbd:[Ctrl+Shift+N]
+|Go to file
+
+|kbd:[Ctrl+E]
+|Recent files popup
+
+|kbd:[Ctrl+B]
+|Go to declaration
+
+|kbd:[Ctrl+Shift+I]
+|Open quick definition lookup
+
+|kbd:[Ctrl+F12]
+|File structure popup (method list)
+
+|===
+
+== Live Template Code Generation
+
+.Windows & Linux
+|===
+
+|Shortcut |Purpose
+
+|kbd:[Alt+Insert]
+|Generate code
+
+|kbd:[Ctrl+Alt+J]
+|Surround with Live Template
+
+|kbd:[Ctrl + J]
+|Insert Live Template
+
+|===
+
+Some examples of builtin live templates at IntelliJ IDEA
+
+==== Declaration
+
+[source,java]
+.psvm / main
+----
+    public static void main(String[] args) {
+            //code
+    }
+----
+
+==== Statement
+
+[source,java]
+.sout
+----
+        System.out.println(myVariable);
+----
+
+[source,java]
+.ifn
+----
+        if (myVariable == null) {
+            // code
+        }
+----
+
+[source,java]
+.inn
+----
+        if (myVariable != null) {
+            //code
+        }
+----
+
+[source,java]
+.fori
+----
+        for (int i = 0; i < myVariable; i++) {
+            //code
+        }
+----
+
+== Editing
+
+.Windows & Linux
+|===
+|Shortcut |Purpose
+
+|kbd:[Ctrl+Shift+Space]
+|Smart code completion
+
+|kbd:[Alt+Enter]
+|Show intention actions and quick-fixes
+
+|kbd:[Ctrl+P]
+|Parameter info
+
+|kbd:[Ctrl+W]
+|Extend selection
+
+|kbd:[Ctrl+D]
+|Duplicate current line
+
+|kbd:[Ctrl+O]
+|Override methods
+
+|kbd:[Ctrl+I]
+|Implement methods
+
+|kbd:[Ctrl+Shift+W]
+|Shrink selection
+
+|kbd:[Ctrl+Enter]
+|Smart line split
+
+|kbd:[Shift+Enter]
+|Start new line
+
+|kbd:[Ctrl+/]
+|Comment /uncomment with line comment
+
+|kbd:[Ctrl+Shift+/]
+|Comment /uncomment with block comment
+
+|kbd:[Ctrl+Alt+L]
+|Reformat code
+
+|kbd:[Ctrl+Alt+O]
+|Optimize imports
+
+|kbd:[Ctrl+Alt+I]
+|Auto-indent line(s)
+
+|===
+
+== Refactoring
+
+.Windows & Linux
+|===
+
+|Shortcut |Purpose
+
+|kbd:[Ctrl+Alt+Shift+T]
+|Refactor this
+
+|kbd:[F5]
+|Copy
+
+|kbd:[F6]
+|Move
+
+|kbd:[Shift+F6]
+|Rename
+
+|kbd:[Ctrl+Alt+M]
+|Extract Method
+
+|kbd:[Ctrl+Alt+V]
+|Extract Variable
+
+|===
+
+== Debugging
+
+.Windows & Linux
+|===
+
+|Shortcut |Purpose
+
+|kbd:[F8]
+|Step over
+
+|kbd:[F7]
+|Step into
+
+|kbd:[Alt+F8]
+|Evaluate expression
+
+|kbd:[Ctrl+F8]
+|Toggle breakpoint
+
+|===
+
+== Version Control
+
+.Windows & Linux
+|===
+
+|Shortcut |Purpose
+
+|kbd:[Ctrl+K]
+|Commit project to VCS
+
+|kbd:[Ctrl+T]
+|Update project from VCS
+
+|kbd:[Ctrl+Shift+K]
+|Push commits
+
+|kbd:[Alt+`]
+|‘VCS’ quick popup
+
+|===
+
+== Compile and Run
+
+.Windows & Linux
+|===
+
+|Shortcut |Purpose
+
+|kbd:[Ctrl+F9]
+|Make project
+
+|kbd:[Shift+F10]
+|Run
+
+|kbd:[Shift+F9]
+|Debug
+
+|===
+
