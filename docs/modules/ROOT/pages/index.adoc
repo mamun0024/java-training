@@ -23,7 +23,7 @@ Large distributed system development and architecture design will be covered in 
 
 This training encourages to practice code through http://http://codekata.com/[Code Kata].
 
-[quote,Wikipedia]
+[quote,'https://en.wikipedia.org/wiki/Kata_(programming)[Wikipedia]']
 ____
 A code kata is an exercise in programming which helps programmers hone their skills through practice and repetition.
 In 1999, the term was used by Dave Thomas, co-author of the book The Pragmatic Programmer, in a bow to the Japanese concept of kata in the martial arts.
