@@ -113,7 +113,7 @@ TIP: https://resources.jetbrains.com/storage/products/intellij-idea/docs/Intelli
 
 Some examples of builtin live templates at IntelliJ IDEA
 
-==== Declaration
+=== Declaration
 
 [source,java]
 .psvm / main
@@ -123,7 +123,7 @@ Some examples of builtin live templates at IntelliJ IDEA
     }
 ----
 
-==== Statement
+=== Statement
 
 [source,java]
 .sout
