@@ -17,10 +17,17 @@ After completion of this segment trainee can solve small to medium level busines
 
 === Advance Level
 
-Large distributed system development and architecture design will be covered in thi segment.
+Large distributed system development and architecture design will be covered in this segment.
 
-== Practice Methodology
+== Code Practice Methodology
 
-This training will use.
+This training encourages to practice code through http://http://codekata.com/[Code Kata].
 
-TIP: This course will
+[quote,Wikipedia]
+____
+A code kata is an exercise in programming which helps programmers hone their skills through practice and repetition.
+In 1999, the term was used by Dave Thomas, co-author of the book The Pragmatic Programmer, in a bow to the Japanese concept of kata in the martial arts.
+____
+
+TIP: A code kata is an exercise in programming which helps programmers hone their skills through practice and repetition.
+In 1999, the term was used by Dave Thomas, co-author of the book The Pragmatic Programmer, in a bow to the Japanese concept of kata in the martial arts.
