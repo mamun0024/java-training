@@ -21,7 +21,7 @@ Large distributed system development and architecture design will be covered in 
 
 == Code Practice Methodology
 
-This training encourages to practice code through http://http://codekata.com/[Code Kata].
+This training encourages to practice code through http://codekata.com/[Code Kata, window=_blank].
 
 [quote,'https://en.wikipedia.org/wiki/Kata_(programming)[Wikipedia]']
 ____
