@@ -1,6 +1,6 @@
 site:
   title: Training
-  url: https://rezaulhasan.me
+  url: https://training.rezaulhasan.me
   start_page: java::index.adoc
 content:
   sources:
