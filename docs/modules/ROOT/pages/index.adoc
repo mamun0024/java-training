@@ -1,6 +1,6 @@
 = Welcome, Java Enthusiasts!
 
-== Level
+== Training Segments
 
 This java training has been designed into three segment.
 
@@ -18,5 +18,9 @@ After completion of this segment trainee can solve small to medium level busines
 === Advance Level
 
 Large distributed system development and architecture design will be covered in thi segment.
+
+== Practice Methodology
+
+This training will use.
 
 TIP: This course will
